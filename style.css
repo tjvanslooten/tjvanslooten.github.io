@@ -31,14 +31,6 @@ p{
   font-size: 88px;
   font-weight: bold;
 }
-#header-title{
-  display: block;
-  float: left;
-  text-transform: uppercase;
-  font-size: 22px;
-  font-weight: bold;
-  padding-left: 4px;
-}
 #header-nav{
   display: block;
   float: right;
