@@ -28,7 +28,7 @@ p{
   display: block;
   float: left;
 
-  font-size: 42px;
+  font-size: 222px;
   font-weight: bold;
 }
 #header-nav{
@@ -48,7 +48,7 @@ p{
   color: white;
   text-decoration: none;
 
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 0.1em;
 }
 #header a:hover{
