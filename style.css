@@ -35,6 +35,7 @@ p{
   display: block;
   float: right;
   magin-top: 0;
+  text-transform: uppercase;
 }
 #header-nav li{
   display: inline;
