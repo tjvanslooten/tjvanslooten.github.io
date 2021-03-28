@@ -83,6 +83,12 @@ p{
   background-color: #f2f2f2;
 }
 
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 
@@ -123,11 +129,4 @@ a:hover{
 
 .about{
   text-align: center;
-}
-
-
-.center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
