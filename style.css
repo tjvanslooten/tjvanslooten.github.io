@@ -83,7 +83,11 @@ p{
   background-color: #f2f2f2;
 }
 
-
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
 
 
 #footer{
