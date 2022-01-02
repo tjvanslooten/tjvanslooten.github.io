@@ -81,10 +81,10 @@ a:hover{
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
-.post-content a {
+.post-content a, .about a {
   color: rgb(255, 118, 39);
 }
-.post-content a:hover {
+.post-content a:hover, .about a:hover {
   color: rgb(246, 202, 177);
 }
 
